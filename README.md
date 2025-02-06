@@ -18,4 +18,4 @@ I am committed to continuously improving the Awareness sites. Here's a glimpse o
 | **Share with NGOs for use if possible**              |  📝 Planned   |
 | **Github pages integration**        | 🔄 In Progress  |
 | **Installation setup info on README.MD**              |  📝 Planned   |
-| **Update the page icon which shows on the browser tab**              |  📝 Planned   |
+| **Update the page icon which shows on the browser tab**              | ✅ Completed   |
