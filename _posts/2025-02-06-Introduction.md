@@ -18,7 +18,7 @@ The purpose of this series is to introduce the **key features of abusive argumen
 {: .box-warning}
 Abusive arguments are not merely disagreements—they are marked by manipulation and control, often leaving lasting emotional impacts.
 
-![Cartoon](/assets/img/arguement_cartoon.jpg){: .mx-auto.d-block :}
+![Cartoon]({{ '/assets/img/arguement_cartoon.jpg' | relative_url }}){: .mx-auto.d-block :}
 
 An abusive argument is characterized by four key traits:
 
