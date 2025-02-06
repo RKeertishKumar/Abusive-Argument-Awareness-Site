@@ -14,7 +14,7 @@ I am committed to continuously improving the Awareness sites. Here's a glimpse o
 | **Setup README.MD**           | ✅ Completed    |
 | **Setup Main posts**              |  📝 Planned   |
 | **Update Meta tags for easy share**              |  ✅ Completed   |
-| **Setup google analytics**              |  📝 Planned   |
+| **Setup google analytics**              |  ✅ Completed   |
 | **Share with NGOs for use if possible**              |  📝 Planned   |
 | **Github pages integration**        | ✅ Completed  |
 | **Installation setup info on README.MD**              |  📝 Planned   |
