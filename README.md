@@ -16,6 +16,6 @@ I am committed to continuously improving the Awareness sites. Here's a glimpse o
 | **Update Meta tags for easy share**              |  📝 Planned   |
 | **Setup google analytics**              |  📝 Planned   |
 | **Share with NGOs for use if possible**              |  📝 Planned   |
-| **Github pages integration**        | 🔄 In Progress  |
+| **Github pages integration**        | ✅ Completed  |
 | **Installation setup info on README.MD**              |  📝 Planned   |
 | **Update the page icon which shows on the browser tab**              | ✅ Completed   |
