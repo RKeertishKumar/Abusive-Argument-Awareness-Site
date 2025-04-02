@@ -4,6 +4,11 @@
 ```
 bundle exec jekyll serve --incremental
 ```
+
+### To remove build files and build again
+```
+rmdir /s /q _site .jekyll-cache
+```
 ## Roadmap
 
 I am committed to continuously improving the Awareness sites. Here's a glimpse of what's on the horizon:
